@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "httpclient-app-updated"
+  "defaultProject": "httpclient-app-updated",
+  "cli": {
+    "analytics": "d8114da5-3754-46b1-9bcf-884e3e232dbf"
+  }
 }
